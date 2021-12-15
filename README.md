@@ -7,7 +7,11 @@
 
 - 🔭 Atualmente, também estou começando alguns projetos na [GDN Apps](https://github.com/gdn-apps)
 
-- 🌱 Estou me especializando em **Node, PHP, AWS, React, Mongo e Postgres**
+- 🌱 Atualmente trabalho principalmente com **Node, PHP, Mongo e Postgres**
+
+- 🌱 Sou formado em Sistemas de Informação e estou cursando pós-graduação em Engenharia de Software
+
+- 🌱 Estou estudando e me especializando em **Node, PHP, AWS, React, Mongo e Postgres**
 
 - 👨‍💻 Todos os projetos estão disponíveis em [https://github.com/evandrogdn](https://github.com/evandrogdn)
 
