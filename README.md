@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente eu trabalho na [Conectra Sistemas](https://github.com/conectra)
 
-- 🔭 Atualmente também estou começando alguns projetos na [GDN Apps](https://github.com/gdn-apps)
+- 🔭 Atualmente, também estou começando alguns projetos na [GDN Apps](https://github.com/gdn-apps)
 
 - 🌱 Estou me especializando em **Node, PHP, AWS, React, Mongo e Postgres**
 
