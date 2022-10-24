@@ -9,9 +9,9 @@
 
 - 🌱 Atualmente trabalho principalmente com **Node, PHP, Mongo e Postgres**
 
-- 🌱 Sou formado em Sistemas de Informação e estou cursando pós-graduação em Engenharia de Software
+- 🌱 Sou bacharel Sistemas de Informação, Pós-graduado em Engenharia de Software e estou fazendo Pós-graduação em Product Management
 
-- 🌱 Estou estudando e me especializando em **Node, PHP, AWS, React, Mongo e Postgres**
+- 🌱 Estou estudando e me especializando em **Node, PHP, AWS, React, Mongo, Postgres e Gestão de Produtos**
 
 - 👨‍💻 Todos os projetos estão disponíveis em [https://github.com/evandrogdn](https://github.com/evandrogdn)
 
