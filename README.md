@@ -15,6 +15,8 @@
 
 - 👨‍💻 Todos os projetos estão disponíveis em [https://github.com/evandrogdn](https://github.com/evandrogdn)
 
+<a href="https://app.daily.dev/evandro_gdn"><img src="https://api.daily.dev/devcards/3611a09a8f3b4f5a91a720b9e2c7549c.png?r=2ig" width="400" alt="Evandro Gardolin's Dev Card"/></a>
+
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
